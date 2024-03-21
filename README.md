@@ -1,3 +1,3 @@
 # popQuizzes
-A collection of programming puzzles from various sources.
-Task will be listed in comments in each file.
+A collection of programming puzzles from various sources;
+Specific tasks will be listed in header comments of each file.
